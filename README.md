@@ -1,3 +1,3 @@
 # javascript-tutorial
-# In new js folcer all files here
+# In new js folder all files here
 ## many topic is cover
