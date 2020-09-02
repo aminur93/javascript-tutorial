@@ -1,0 +1,3 @@
+/*
+This is Date example in javascript
+*/
